@@ -17,3 +17,6 @@ Matrix multiplication is more complex. It involves multiplying the elements of t
 ![image](https://github.com/user-attachments/assets/297ff333-4d88-4ae8-862e-3ab78a15a8e3)
 
 ![image](https://github.com/user-attachments/assets/22bfe702-e5f6-4a15-8a3e-51c8de744353)
+
+# Conlusion
+We learnt about 2D array and matrix operations in C++.
